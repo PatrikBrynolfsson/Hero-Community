@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve Hero
 title: 'Bug Report: [ADD SHORT TITLE HERE]'
 labels: user-reported-bug
 assignees: ''

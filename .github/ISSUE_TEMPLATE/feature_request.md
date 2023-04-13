@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea to improve Hero
 title: 'Feature Request: [ADD SHORT TITLE HERE]'
-labels: ''
+labels: user-reported-feature-request
 assignees: ''
 
 ---
